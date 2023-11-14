@@ -1,0 +1,172 @@
+body {
+  background: #202c36;
+}
+.container {
+}
+.enter {
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+}
+.dark {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.header {
+  background: #fff;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+  padding: 23px 75px 29px 75px;
+  background: #2b3844;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+}
+.logo {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.ogol {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  opacity: 0.5px;
+}
+.form {
+  width: 480px;
+  height: 56px;
+  border-radius: 5px;
+  background: #2b3844;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+  color: #fff;
+}
+.input {
+  display: flex;
+  gap: 24px;
+  margin: 18px 271px 18px 74px;
+  border-radius: 5px;
+  background: #2b3844;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+  color: #fff;
+}
+input {
+  border: none;
+  outline: none;
+  background: #2b3844;
+  color: #fff;
+}
+.select {
+  width: 200px;
+  height: 56px;
+  border-radius: 5px;
+  background: #2b3844;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.option {
+  border: none;
+  outline: none;
+  background: #2b3844;
+  color: #fff;
+}
+.metoo {
+  display: flex;
+  gap: 600px;
+  margin-top: 48px;
+  padding-left: 100px;
+}
+.card-1 {
+  border-radius: 5px;
+  background: #2b3844;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+  color: #fff;
+}
+.card-1:hover {
+  cursor: pointer;
+  transform: scale(110%);
+}
+.card-2:hover {
+  cursor: pointer;
+  transform: scale(110%);
+}
+.card-3:hover {
+  cursor: pointer;
+  transform: scale(110%);
+}
+.card-4:hover {
+  cursor: pointer;
+  transform: scale(110%);
+}
+.card-5:hover {
+  cursor: pointer;
+  transform: scale(110%);
+}
+.card-6:hover {
+  cursor: pointer;
+  transform: scale(110%);
+}
+.card-7:hover {
+  cursor: pointer;
+  transform: scale(110%);
+}
+.card-8:hover {
+  cursor: pointer;
+  transform: scale(110%);
+}
+.card {
+  display: flex;
+  flex-flow: wrap;
+  gap: 75px;
+  justify-content: center;
+  margin-top: 48px;
+  margin-bottom: 45px;
+}
+.card-2 {
+  border-radius: 5px;
+  background: #2b3844;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+  color: #fff;
+}
+.card-3 {
+  border-radius: 5px;
+  background: #2b3844;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+  color: #fff;
+}
+.card-4 {
+  border-radius: 5px;
+  background: #2b3844;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+  color: #fff;
+}
+.card-5 {
+  border-radius: 5px;
+  background: #2b3844;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+  color: #fff;
+}
+.card-6 {
+  border-radius: 5px;
+  background: #2b3844;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+  color: #fff;
+}
+.card-7 {
+  border-radius: 5px;
+  background: #2b3844;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+  color: #fff;
+}
+.card-8 {
+  border-radius: 5px;
+  background: #2b3844;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+  color: #fff;
+}
+.control {
+  padding-left: 24px;
+}
